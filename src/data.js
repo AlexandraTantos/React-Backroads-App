@@ -10,9 +10,9 @@ export const pageLinks = [
 ];
 
 export const socialLinks = [
-  { id: 1, href: "https://www.twitter.com", icon: "fab fa-facebook " },
+  { id: 1, href: "https://www.facebook.com", icon: "fab fa-facebook " },
   { id: 2, href: "https://www.twitter.com", icon: "fab fa-twitter " },
-  { id: 3, href: "https://www.twitter.com", icon: "fab fa-squarespace " },
+  { id: 3, href: "https://www.squarespace.com", icon: "fab fa-squarespace " },
 ];
 
 export const services = [
@@ -20,19 +20,19 @@ export const services = [
     id: 1,
     icon: " fas fa-wallet fa-fw",
     title: "saving money ",
-    text: " Lorem ipsum dolor sit amet consectetur adipisicing elit.Asperiores, officia.",
+    text: " With just a few clicks, you can book your dream vacation with confidence, knowing that your information is safe and your experience is in good hands.",
   },
   {
     id: 2,
     icon: " fas fa-tree fa-fw",
     title: "endless hiking ",
-    text: " Lorem ipsum dolor sit amet consectetur adipisicing elit.Asperiores, officia.",
+    text: " From vibrant cities and cultural attractions to breathtaking landscapes and outdoor adventures, you'll find all you desire for a memorable vacation.",
   },
   {
     id: 3,
     icon: " fas fa-socks fa-fw",
     title: "amazing comfort",
-    text: " Lorem ipsum dolor sit amet consectetur adipisicing elit.Asperiores, officia.",
+    text: " With well-trained local guides and personalized tours, you'll have the opportunity to uncover the culture, history, and traditions of each destination in a unique and engaging way.",
   },
 ];
 
@@ -42,7 +42,7 @@ export const tours = [
     image: tour1,
     date: "august 26th, 2020",
     title: "Tibet Adventure",
-    info: ` Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.`,
+    info: `Prepare for an unforgettable journey to the mystical land of Tibet, where ancient traditions meet breathtaking landscapes. Our Tibet adventure tours offer you the opportunity to explore this enchanting region like never before.`,
     location: "china",
     duration: 6,
     cost: 2100,
@@ -52,7 +52,7 @@ export const tours = [
     image: tour2,
     date: "october 1th, 2020",
     title: "best of java",
-    info: ` Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.`,
+    info: ` Welcome to Java, the vibrant heart of Indonesia, where ancient temples, lush landscapes, and rich cultural heritage await your discovery. Join us on an unforgettable journey as we explore the best that Java has to offer.`,
     location: "indonesia",
     duration: 11,
     cost: 1400,
@@ -62,7 +62,7 @@ export const tours = [
     image: tour3,
     date: "september 15th, 2020",
     title: "explore hong kong",
-    info: ` Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.`,
+    info: ` Welcome to Hong Kong, where East meets West in a dazzling fusion of culture, cuisine, and cosmopolitan flair. Get ready to experience the vibrant energy and excitement of this dynamic city with our curated tours.`,
     location: "hong kong",
     duration: 8,
     cost: 5000,
@@ -72,7 +72,7 @@ export const tours = [
     image: tour4,
     date: "december 5th, 2019",
     title: "kenya highlights",
-    info: ` Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.`,
+    info: ` Welcome to Kenya, the jewel of East Africa, where endless savannahs, diverse wildlife, and vibrant cultures await your discovery. Join us on an unforgettable safari adventure as we explore the natural wonders and rich heritage of this beautiful country.`,
     location: "kenya",
     duration: 20,
     cost: 3300,

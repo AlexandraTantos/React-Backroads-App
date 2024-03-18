@@ -4,8 +4,10 @@ const Hero = () => {
       <div className="hero-banner">
         <h1>backroads app</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
-          explicabo debitis est autem dicta.
+          Welcome to our tourism website, the perfect place to kickstart your
+          travel adventure! Whether you're looking to explore fascinating
+          cities, relax on exotic beaches, or enjoy outdoor adventures, we've
+          got you covered.
         </p>
         <a href="#tours" className="btn hero-btn ">
           explore tours
