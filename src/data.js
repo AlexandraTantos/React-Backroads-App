@@ -40,7 +40,7 @@ export const tours = [
   {
     id: 1,
     image: tour1,
-    date: "august 26th, 2020",
+    date: "august 26th, 2024",
     title: "Tibet Adventure",
     info: `Prepare for an unforgettable journey to the mystical land of Tibet, where ancient traditions meet breathtaking landscapes. Our Tibet adventure tours offer you the opportunity to explore this enchanting region like never before.`,
     location: "china",
@@ -50,7 +50,7 @@ export const tours = [
   {
     id: 2,
     image: tour2,
-    date: "october 1th, 2020",
+    date: "october 1th, 2025",
     title: "best of java",
     info: ` Welcome to Java, the vibrant heart of Indonesia, where ancient temples, lush landscapes, and rich cultural heritage await your discovery. Join us on an unforgettable journey as we explore the best that Java has to offer.`,
     location: "indonesia",
@@ -60,7 +60,7 @@ export const tours = [
   {
     id: 3,
     image: tour3,
-    date: "september 15th, 2020",
+    date: "september 15th, 2025",
     title: "explore hong kong",
     info: ` Welcome to Hong Kong, where East meets West in a dazzling fusion of culture, cuisine, and cosmopolitan flair. Get ready to experience the vibrant energy and excitement of this dynamic city with our curated tours.`,
     location: "hong kong",
@@ -70,7 +70,7 @@ export const tours = [
   {
     id: 4,
     image: tour4,
-    date: "december 5th, 2019",
+    date: "december 5th, 2026",
     title: "kenya highlights",
     info: ` Welcome to Kenya, the jewel of East Africa, where endless savannahs, diverse wildlife, and vibrant cultures await your discovery. Join us on an unforgettable safari adventure as we explore the natural wonders and rich heritage of this beautiful country.`,
     location: "kenya",
