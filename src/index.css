@@ -327,7 +327,6 @@ p {
 .tour-title p {
   color: var(--clr-grey-7);
 }
-/* end of additional css for different layout*/
 .tour-footer {
   display: flex;
   justify-content: space-between;
@@ -400,12 +399,6 @@ p {
 .copyright span {
   margin-left: 0.5rem;
 }
-/*
-=============== 
-Navbar
-===============
-*/
-/* add :not(.nav-logo) to img */
 
 .navbar {
   position: fixed;
